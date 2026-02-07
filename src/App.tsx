@@ -63,9 +63,9 @@ export default function App() {
 
   return (
     <div style={{ padding: 24 }}>
-      <h1>SonicLab</h1>
+      <h1>SonicMemory</h1>
       <p>
-        Moves: {moves} {complete ? '✅ Completado' : ''}
+        Movimientos: {moves} {complete ? '✅ Completado' : ''}
       </p>
 
       <div
